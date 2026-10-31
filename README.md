@@ -79,7 +79,9 @@ Em comparação com a ferramenta padrão fornecida pelo expert, implementei as s
 
 ## 📸 Simulações da Ferramenta
 
-*(Insira aqui prints da planilha preenchida comparando dois perfis diferentes, por exemplo, o perfil Conservador e o perfil Agressivo com o mesmo valor de aporte, demonstrando a mudança na divisão da carteira).*
+<img width="957" height="362" alt="image" src="https://github.com/user-attachments/assets/ae5363fd-a6b6-427b-9ae4-def0142b7950" />
+
+<img width="965" height="362" alt="image" src="https://github.com/user-attachments/assets/a721336a-f7ff-43c7-ae8d-b9d7c07b9d19" />
 
 ---
 
